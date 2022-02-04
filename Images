@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip would be a mountain sunset </h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-sunset.png" alt="Rabbit with lop ears in barn" width="203"> 
+        
+        <p>I would experience the fresh breeze and a nice view of the sunset </p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-and-lake.png" alt="Rabbit with lop ears in barn" width="203"> 
+        
+        <p>And animals I would see are deers,elks, brown bears, rabits and etc.</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/rabbit.png" alt="Rabbit with lop ears in barn" width="203"> 
+        
+        
+        <p>And eat food like sandwhichs, granola bars,and berries  </p>
+    
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/berries.png" alt="Rabbit with lop ears in barn" width="203"> 
+        
+    </body>
+</html>
